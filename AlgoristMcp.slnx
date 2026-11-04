@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/root/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AlgoristMcp/AlgoristMcp.csproj" />
+</Solution>
