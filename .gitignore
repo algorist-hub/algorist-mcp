@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# MCP Test json config
+mcp_test_local.json
+mcp_test_remote.json
+
 # User-specific files
 *.rsuser
 *.suo
